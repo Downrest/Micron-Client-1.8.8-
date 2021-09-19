@@ -23,6 +23,8 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 ### TUTORIAL
 
+➤ Choose your preferred version
+
 ➤ Search for the "Code" button
 
 ➤ Select "Download ZIP"
