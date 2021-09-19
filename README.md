@@ -33,8 +33,8 @@ And place the "VolhornClient" folder in your versions folder *(C:\Users\Example\
 
 #### **Client-development by Javacraft.**
 
- **Programmer · Downrest**
+ *Programmer · Downrest*
  
- **Head Director · zaxify**
+ *Head Director · zaxify*
  
- **Playtester · LucasSucksAtMC, zaxify, and Downrest**
+ *Playtester · LucasSucksAtMC, zaxify, and Downrest*
