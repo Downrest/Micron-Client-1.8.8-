@@ -32,6 +32,9 @@ And place the "VolhornClient" folder in your versions folder *(C:\Users\Example\
 ### CREDITS
 
 #### **Client-development by Javacraft.**
+
  **Programmer · Downrest**
+ 
  **Head Director · zaxify**
+ 
  **Playtester · LucasSucksAtMC, zaxify, and Downrest**
