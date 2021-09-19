@@ -9,8 +9,6 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 ### WHAT ARE THE FEATURES?
 
-#### **Micron Client [1.8.8]** includes:
-
  **· Built-in Optifine**
  
  **· Custom menu GUI**
