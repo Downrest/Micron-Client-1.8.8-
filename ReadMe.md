@@ -23,15 +23,15 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 ### Tutorial
 
- ➤ Choose your preferred version
+- ➤ Choose your preferred version
 
- ➤ Search for the "Code" button
+- ➤ Search for the "Code" button
 
- ➤ Select "Download ZIP"
+- ➤ Select "Download ZIP"
 
- ➤ Once downloaded, extract the ZIP
+- ➤ Once downloaded, extract the ZIP
 
- ➤ Place the "VolhornClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
+- ➤ Place the "VolhornClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
 
 ## Credits
 
