@@ -1,8 +1,8 @@
-# Micron Client [1.8.8]
+# ![This is an image](https://i.imgur.com/CtQgsEc.png)
 
-## Information
+# Information
 
-### What is the client?
+## What is the client?
 
 **Micron Client [1.8.8]** is an enhanced version of Minecraft, with built-in Optifine. This isn't a PVP client by any means, but you could use it as one if you want.
 Please note that this client is still on beta, as it was recently made. Anyways, I hope you enjoy using it!
@@ -15,13 +15,13 @@ Please note that this client is still on beta, as it was recently made. Anyways,
  
 - **Featured server**
  
-## Version(s)
+# Version(s)
 
 **Micron Client [1.8.8]** - ***1.0.0***
 
-## Download
+# Download
 
-### Tutorial
+## Tutorial
 
 - ➤ Choose your preferred version
 
@@ -33,7 +33,7 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 - ➤ Place the "VolhornClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
 
-## Credits
+# Credits
 
 ### **Client-development by Javacraft.**
 
