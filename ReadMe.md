@@ -37,11 +37,11 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 ### **Client-development by Javacraft.**
 
-- **Programmer** *· Downrest*
+- **Programmer** · Downrest
  
-- **Head Director** *· zaxify*
+- **Head Director** · zaxify
  
-- **Playtester** *· LucasSucksAtMC, zaxify, and Downrest*
+- **Playtester** · LucasSucksAtMC, zaxify, and Downrest
 
 #
 
