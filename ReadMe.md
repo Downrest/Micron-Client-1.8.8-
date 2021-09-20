@@ -1,4 +1,4 @@
-# ![This is an image](https://i.imgur.com/CtQgsEc.png)
+# ![This is an image](https://i.imgur.com/CtQgsEc.png) <img src="https://i.imgur.com/6CJLYY5.png" width="150" height="200">
 
 # Information
 
@@ -45,5 +45,5 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 #
 
-<img src="https://i.imgur.com/AMvn5Hc.png" width="70" height="80">  <img src="https://i.imgur.com/6CJLYY5.png" width="50" height="80">
+<img src="https://i.imgur.com/AMvn5Hc.png" width="70" height="80">  <img src="https://i.imgur.com/6CJLYY5.png" width="50" height="75">
 
