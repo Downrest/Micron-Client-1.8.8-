@@ -1,4 +1,4 @@
-# ![This is an image](https://i.imgur.com/CtQgsEc.png) <img src="https://i.imgur.com/6CJLYY5.png" width="150" height="200">
+# ![This is an image](https://i.imgur.com/gh7oJ1U.png)
 
 # Information
 
