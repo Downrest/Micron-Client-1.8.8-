@@ -7,7 +7,7 @@
 **Micron Client [1.8.8]** is an enhanced version of Minecraft, with built-in Optifine. This isn't a PVP client by any means, but you could use it as one if you want.
 Please note that this client is still on beta, as it was recently made. Anyways, I hope you enjoy using it!
 
-### What are the current features?
+## What are the current features?
 
 - **Built-in Optifine**
  
