@@ -42,3 +42,8 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 - **Head Director** *· zaxify*
  
 - **Playtester** *· LucasSucksAtMC, zaxify, and Downrest*
+
+#
+
+<img src="https://i.imgur.com/AMvn5Hc.png" width="70" height="80">  <img src="https://i.imgur.com/6CJLYY5.png" width="50" height="80">
+
