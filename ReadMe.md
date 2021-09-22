@@ -13,7 +13,7 @@ Please note that this client is still on beta, as it was recently made. Anyways,
  
 - **Custom menu GUI**
  
-- **FPS boost**
+- **FPS enhancements**
  
 # Version(s)
 
