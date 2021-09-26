@@ -31,7 +31,7 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 - ➤ Once downloaded, extract the ZIP
 
-- ➤ Place the "VolhornClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
+- ➤ Place the "MicronClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
 
 # Credits
 
