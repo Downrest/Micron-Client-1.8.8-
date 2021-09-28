@@ -31,6 +31,8 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 
 - ➤ Place the "MicronClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
 
+![This is an image](https://i.imgur.com/MY55stg.png)
+
 # Credits
 
 ### **Client-development by Javacraft.**
