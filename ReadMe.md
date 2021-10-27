@@ -30,8 +30,7 @@ Please note that this client is still on beta, as it was recently made. Anyways,
 - ➤ Once downloaded, extract the ZIP
 
 - ➤ Place the "MicronClient" folder in your *(C:\Users\INSERTYOURNAME\AppData\Roaming\.minecraft\versions)*
-
-![This is an image](https://i.imgur.com/MY55stg.png)
+![opera_iD0Ra5WFjw](https://user-images.githubusercontent.com/83262692/139012945-54fe40d5-234f-4a32-a756-3e558b186362.png)
 
 # Credits
 
